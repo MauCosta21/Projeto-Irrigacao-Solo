@@ -1,9 +1,6 @@
 # Sistema de Monitoramento e Irrigação Automática do Solo
 
-## Descrição do Projeto
-Trabalho acadêmico desenvolvido para a disciplina de **Estruturas de Dados** - Sistema embarcado Arduino para coleta e análise de dados do solo com controle automático de irrigação.
-
-## Integrantes do Grupo
+## Integrante do Grupo
 - Maurício Oliveira da Costa DRE: 125387787
 
 ## Objetivo
