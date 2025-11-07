@@ -41,7 +41,7 @@ Desenvolver um sistema que colete dados ambientais do solo e tome decisões auto
 - Estrutura de dados: Lista Encadeada
 - Algoritmo: Insertion Sort
 
-## 📁 Estrutura do Código
+## Estrutura do Código
 
 ```c
 // Estrutura principal
